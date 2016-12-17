@@ -1,6 +1,6 @@
 # SprinklerSystemSimulation
-Simulation of a home garden sprinkler system
-Simulation of HummingBee sprinkler system:
+Simulation of HummingBee home garden sprinkler system
+Functionalities:
  - Enable/Disable entire system
  - View garden layout (group-wise sprinklers and status)
  - Water consumption graph
